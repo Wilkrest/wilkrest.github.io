@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wilkrest.github.io/static/css/main.7eddb01d.chunk.css",
+    "main.js": "/wilkrest.github.io/static/js/main.3bc7d516.chunk.js",
+    "main.js.map": "/wilkrest.github.io/static/js/main.3bc7d516.chunk.js.map",
+    "runtime-main.js": "/wilkrest.github.io/static/js/runtime-main.7612a1d0.js",
+    "runtime-main.js.map": "/wilkrest.github.io/static/js/runtime-main.7612a1d0.js.map",
+    "static/js/2.51e66746.chunk.js": "/wilkrest.github.io/static/js/2.51e66746.chunk.js",
+    "static/js/2.51e66746.chunk.js.map": "/wilkrest.github.io/static/js/2.51e66746.chunk.js.map",
+    "index.html": "/wilkrest.github.io/index.html",
+    "precache-manifest.aa692dc418f81d6e4d549e88ffee6c1d.js": "/wilkrest.github.io/precache-manifest.aa692dc418f81d6e4d549e88ffee6c1d.js",
+    "service-worker.js": "/wilkrest.github.io/service-worker.js",
+    "static/css/main.7eddb01d.chunk.css.map": "/wilkrest.github.io/static/css/main.7eddb01d.chunk.css.map",
+    "static/js/2.51e66746.chunk.js.LICENSE.txt": "/wilkrest.github.io/static/js/2.51e66746.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/wilkrest.github.io/static/media/silhouette-of-grass-under-white-sky-925743.eea37720.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7612a1d0.js",
+    "static/js/2.51e66746.chunk.js",
+    "static/css/main.7eddb01d.chunk.css",
+    "static/js/main.3bc7d516.chunk.js"
+  ]
+}
